@@ -20,7 +20,7 @@ icon: # the emoji used as the favicon (alternatively, provide image name in /ass
 
 url: https://menotti.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog do Menotti # blog_name will be displayed in your blog page
+blog_name: Blog do Prof. Menotti # blog_name will be displayed in your blog page
 blog_description: Meu arquivo pessoal de coisas interessantes e de bobagens
 permalink: /blog/:year/:title/
 
@@ -135,7 +135,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.

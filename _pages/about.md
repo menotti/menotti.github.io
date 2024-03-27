@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rodovia Washington Luís, Km 235 (SP-310)</p>
-    <p>CEP 13565-905 - São Carlos / SP - Brazil</p>
-    <p>Phone: +55 16 3306-6606 / Fax: +55 16 3351-8233</p>
+    <p>Rodovia Washington Luís,<br>Km 235 (SP-310)</p>
+    <p>CEP 13565-905<br>São Carlos / SP - Brazil</p>
+    <p>Phone: +55 16 3306-6606</p>
+    <p>Fax: +55 16 3351-8233</p>
     
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
