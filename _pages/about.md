@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-<a href='https://www.dc.ufscar.br/'>Department of Computer Science (DC)</a>
-<a href='https://www.ccet.ufscar.br/'>Center of Exact Sciences and Technology (CCET)</a>
-<a href='https://www.ufscar.br/'>Federal University of São Carlos (UFSCar)</a>
+subtitle: <a href='https://www.dc.ufscar.br/'>Department of Computer Science (DC)</a><br><a href='https://www.ccet.ufscar.br/'>Center of Exact Sciences and Technology (CCET)</a><br><a href='https://www.ufscar.br/'>Federal University of São Carlos (UFSCar)</a>
 
 profile:
   align: right
