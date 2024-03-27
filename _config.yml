@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Prof. Ricardo Menotti website # the website title (if blank, full name will be used instead)
+title: Prof. Ricardo Menotti # the website title (if blank, full name will be used instead)
 first_name: Ricardo
 middle_name: 
 last_name: Menotti
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
