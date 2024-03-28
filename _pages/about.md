@@ -13,7 +13,7 @@ profile:
     <p>CEP 13565-905<br>São Carlos / SP - Brazil</p>
     <p>Phone: +55 16 3306-6606</p>
     <p>Fax: +55 16 3351-8233</p>
-    
+
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
