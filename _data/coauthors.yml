@@ -1,34 +1,28 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"eduardo"
+  - firstname: ["Eduardo Marques", "Marques, E."]
+    url: https://www.webofscience.com/wos/author/record/F-5427-2011
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"cardoso":
+  - firstname: ["João Manuel Paiva Cardoso", "Cardoso, J. M. P.", "João M. P. Cardoso"]
+    url: https://scholar.google.com/citations?user=qGdlCzQAAAAJ
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bonato"
+  - firstname: ["Vanderlei Bonato", "Bonato, V."]
+    url: https://www.webofscience.com/wos/author/record/E-9823-2011
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"marcio"
+  - firstname: ["Marcio Merino Fernandes", "Fernandes, M. M.", "Marcio M. Fernandes"]
+    url: https://www.webofscience.com/wos/author/record/JYW-5158-2024
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"fabiano"
+  - firstname: ["Fabiano Cutigi Ferrari", "Ferrari, F. C.", "Fabiano C. Ferrari"]
+    url: https://www.webofscience.com/wos/author/record/AAC-1392-2019
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"valter"
+  - firstname: ["Valter Vieira de Camargo", "Camargo, V. V.", "Valter V. Camargo"]
+    url: https://www.webofscience.com/wos/author/record/AAA-5709-2019
+    
+"inoue":
+  - firstname: ["Roberto Santos Inoue", "Roberto S. Inoue", "Inoue, R. S."]
+    url: https://scholar.google.com/citations?user=4uj4wOMAAAAJ
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
