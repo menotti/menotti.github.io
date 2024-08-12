@@ -1,6 +1,14 @@
 github_users:
   - menotti
+  - questio42
 
 github_repos:
   - menotti/ld
+  - menotti/mm
   - menotti/fpga
+  - menotti/lightriscv
+  - menotti/up1
+  - menotti/arq1hdl
+  - menotti/arq2asm
+  - menotti/sycl-fpga-wscad-2020
+  - menotti/lalp
