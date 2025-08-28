@@ -1,9 +1,9 @@
 github_users:
   - menotti
-  - questio42
 
 github_repos:
   - menotti/ld
+  - menotti/aoc
   - menotti/mm
   - menotti/fpga
   - menotti/lightriscv
