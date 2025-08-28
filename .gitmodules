@@ -1,6 +1,6 @@
 [submodule "fpga"]
 	path = fpga
-	url = https://github.com/menotti/fpga.git
+	url = git@github.com:menotti/fpga.git
 [submodule "ld"]
 	path = ld
 	url = git@github.com:menotti/ld.git
@@ -10,3 +10,5 @@
 [submodule "mm"]
 	path = mm
 	url = git@github.com:menotti/mm.git
+
+
