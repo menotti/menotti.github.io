@@ -7,3 +7,6 @@
 [submodule "aoc"]
 	path = aoc
 	url = git@github.com:menotti/aoc.git
+[submodule "mm"]
+	path = mm
+	url = git@github.com:menotti/mm.git
