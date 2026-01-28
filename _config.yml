@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: menotti # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: prof_menotti # your X handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: mastodon.social/@menotti
 linkedin_username: ricardomenotti # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: Kkud-3EAAAAJ # your Google Scholar ID
